@@ -1,0 +1,28 @@
+SUBJECT:    Java Programming Lab                  SUBJECT CODE: IT201		  SEMSTER: IV                                                            CLASS: 4IT1
+List of Experiments: 
+1. WAP to find greatest of three numbers. 
+2.WAP to calculate factorial of a number using command line arguments.
+3. WAP to read a set of numbers in an array & to find the sum and average of them. 
+4.WAP a program to maintain the student record containing roll number , Name, marks1, marks2, marks3 as data member and getdata(), display() and setdata() as member functions.
+5. WAP to increment the employee salaries on the basis of their designation(Manager-5000, General Manager-10000, CEO-20000, worker-2000). Use employee name, id, designation , salary as data member and inc_sal as member function.
+6. Write a class bank, containing data member: Name of Depositor, A/c type, Type of A/c, Balance amount. Member function: To assign initial value, To deposit an amount , to withdraw an amount after checking the balance (which should be greater than Rs. 500) , To display name & balance. 
+7. Create a class Employee. Derive 3 classes from this class namely, Programmer, Analyst & Project Leader. Take attributes and operations on your own.
+8. Design three classes: Student, Exam and Result. The student class has data members such as roll no, name etc. Create a class Exam by inheriting the Student class. The Exam class adds data members representing the marks scored in six subjects. Derive the Result from class Exam and it has its own members such as total marks and average. Calculate the total marks and average.
+9. Calculate area of different geometrical figures(circle, rectangle,square, triangle) using function overloading.
+10.WAP to implement multiple inheritance using Interface.
+11. WAP to handle ArithmaticEception and ArrayIndexOutOfBounds Exception. 
+12. WAP to create and handle your own Exception.
+13. WAP to create Student class in package1 and Marks class in package2 which inherit Student class. Calculate the total and average of marks in Result class.
+14. WAP to create a Thread by extending Thread class.
+15. WAP to design a simple Applet and show it within web browser.
+16. WAP to design a Frame.
+17. Write a program to show concept of multiple inheritance through implementation of interfaces in a class.
+18. Write a program with given interfaces MotorBike and Cycle, then implement in child class TwoWheeler and display distance & speed.
+19. Write a program in Java to create an immutable class.
+20. Write a program in Java to use final variables, final methods and final classes.
+21. Write a program in Java to create thread by extending Thread class.
+22. Write a program in Java to create thread by implementing Runnable interface.
+23. Write a program to create a file in Java using FileOutputStream class and enter byte data into it.
+24. Write a program to create a file in Java using FileOutputStream class and enter String data into it.
+25. Open a file using FileInputStream, read its content and siplay on screen. (Remember to create a file in Java using FileOutputStream class and enter data into it before
+
