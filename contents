@@ -68,3 +68,31 @@ public class Main
 
 	
 }
+
+
+
+
+2.WAP to calculate factorial of a number using command line arguments.
+
+public class Main
+{
+	public static void main(String[] args) {
+
+	int input=Integer.parseInt(args[0]);
+	int output=1;
+	System.out.println("input "+input);
+	
+	for(int i=input;i>0;i--){
+	    output=output*i;
+	    System.out.println(output+" is output ");
+	}
+	
+	
+	
+	
+	    }
+
+	
+}
+
+
